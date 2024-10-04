@@ -14,7 +14,7 @@ In order to receive angle values from the swing sensor the game needs to instant
 
 - <a href="https://drive.google.com/file/d/1eB3jrK-1P-pxEX7-j299lSSuIWtgOX_D/view?usp=sharing">Download</a> and install CPR Swings Emulator msix package.
 - If Windows complains about app's publisher install the certificate by double clicking and adding it to Local machine -> Trusted People. You can find the file inside the downloaded zip folder.
-- Toggle switches to start swinging and/or broadcasting events throug a UDP server.
+- Toggle switches to start swinging and/or broadcasting events through a UDP server.
 - Adjust swinging amplitude and speed with sliders.
 - Select current angle by clicking in the circle area.
 
